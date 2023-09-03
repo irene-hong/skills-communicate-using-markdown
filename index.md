@@ -11,3 +11,7 @@ I've added an h1, an h2, and an h6 header to the index.md file.
 ```javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
